@@ -9,6 +9,7 @@ data = {
 df = pd.DataFrame(data)
 
 print(df)
+print("hello")
 
 pivot_df = pd.pivot_table(
     df,
